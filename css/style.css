@@ -7,7 +7,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -18,3 +18,36 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1, h2 {
+	color: #8C9894;
+}
+
+img[alt="necklace"] {
+    border: 2px solid #8C9894;
+    outline-style: solid;
+    outline-color: #8C9894;
+
+
+}
+
+p a {
+	text-decoration: none;
+}
+
+a img{
+	border: 4px solid #D0CECF;
+}
+
+
+a:hover img {
+    border: 4px solid #8C9894;
+}
+
+
+footer {
+	float: right;
+	padding: 10px;
+	height: 20px
+}
+
